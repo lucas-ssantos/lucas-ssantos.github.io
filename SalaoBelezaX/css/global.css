@@ -1,17 +1,12 @@
-.row-section
+.section-padding
 {
-	padding-top: 20px;
-	padding-bottom: 30px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
-.row-title
+.row-element
 {
-	padding-top: 20px;
-}
-
-.row-elements
-{
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 }
 
 .hr-title

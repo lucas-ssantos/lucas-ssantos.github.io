@@ -1,6 +1,5 @@
 .intro
 {
-	height: 550px;
 	background-image: url('../img/salao3.jpg');
 }
 
@@ -26,12 +25,13 @@
 	font-family: "Merienda", cursive;
 	font-size: 30px;
 	color: white;
+	padding-top: 30px;
 }
 
 .img-intro
 {
 	transition: 2s;
-	top: 100px;
+	padding-top: 30px;
 }
 
 .img-intro:hover
@@ -44,16 +44,9 @@
 
 
 
-
-
-.carousel-item
-{
-	background: rgba(0, 0, 0, 0.5);
-}
-
 .info-banner-car
 {
-	
+	padding-top: 200px;
 	position: absolute;
 	z-index: 2;
 }
